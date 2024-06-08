@@ -1,6 +1,8 @@
 package com.posystem.posystem.controller;
 
 import com.posystem.posystem.Service.UserService;
+import com.posystem.posystem.entity.Items;
+import com.posystem.posystem.entity.Stock;
 import com.posystem.posystem.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

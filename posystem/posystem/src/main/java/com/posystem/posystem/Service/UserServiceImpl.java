@@ -1,5 +1,6 @@
 package com.posystem.posystem.Service;
 
+import com.posystem.posystem.entity.Items;
 import com.posystem.posystem.entity.User;
 import com.posystem.posystem.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
